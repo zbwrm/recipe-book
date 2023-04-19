@@ -1,6 +1,8 @@
 # Braised Pork Belly (Hmong Sweet Pork)
 3-4 servings. Total time 2 hours (1-1.5h passive)
 
+![image](https://user-images.githubusercontent.com/74127176/232939582-52c99cc3-e4ba-48ab-aa82-d13c4101318a.png)
+
 ## Ingredients
 - 2 to 2.5 lbs pork belly, skin on and cut into bite-sized cubes
 - 6 eggs, hard boiled
